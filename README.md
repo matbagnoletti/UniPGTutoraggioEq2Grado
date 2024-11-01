@@ -20,9 +20,9 @@ gcc -v
 
 ## Richiesta dell'esercizio
 Si realizzi un programma in linguaggio C per risolvere equazioni di secondo grado. 
-In particolare, data una generica equazione di secondo grado nella forma <code>ax^2 + bx + c = 0</code>,
+In particolare, data una generica equazione di secondo grado nella forma <code>ax² + bx + c = 0</code>,
 dove a, b, c sono coefficienti reali noti (valori di tipo double passati da tastiera con scanf()) e x
-rappresenta l’incognita, il programma determini le due radici <code>x1</code> ed <code>x2</code> dell’equazione data, ove esse esistano. 
+rappresenta l’incognita, il programma determini le due radici <code>x₁</code> ed <code>x₂</code> dell’equazione data, ove esse esistano. 
 
 Si identifichino tutti i casi particolari, come:
 <ul>
