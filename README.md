@@ -13,7 +13,7 @@ Esercizio di tutoraggio svolto durante il corso di Programmazione Procedurale de
 ## Requisiti
 - [gcc](https://www.gcc.gnu.org/) (v13.2.0)
 
-È possibile visualizzare la versione già presente sul proprio dispositivo mediante i seguenti comandi:
+È possibile visualizzare la versione già presente sul proprio dispositivo mediante il seguente comando:
 ```bash
 gcc -v
 ```
